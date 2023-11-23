@@ -84,6 +84,7 @@ fun ComposeCard(
     modifier: Modifier = Modifier,
     backGroundColor: Color
 ) {
+    // USE O MODIFIER COM "m" MINUSCULO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     Column(modifier = modifier
             .fillMaxSize()
             .background(backGroundColor)
